@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster Live",
+  "description": "A real-time multiplayer quiz platform with document-to-quiz AI parsing.",
+  "requestFramePermissions": []
+}
